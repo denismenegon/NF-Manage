@@ -1,4 +1,7 @@
 🛠 Tecnologias Utilizadas
+HTML
+
+Bootstrap
 
 Python
 
@@ -21,6 +24,16 @@ Download automático e organizado de PDF e XML
 Execução agendada ou sob demanda
 
 Interface e distribuição facilitada via executável .exe
+
+
+🖥️ UI - Telas do Aplicativo
+Construída com o framework web Flask, HTML e Bootstrap, a Interface Gráfica de Usuário (GUI) permite ao usuário realizar as ações de emissão e consulta. Seus elementos de interface são otimizados para oferecer uma experiência fluida no acesso a essas duas funcionalidades principais.
+
+Tela de Emissão e Consulta
+
+![Emissão](tela_emissao.png)
+![Consulta](tela_consulta.png)
+
 
 ✅ Resultados Obtidos
 
