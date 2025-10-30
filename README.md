@@ -29,6 +29,11 @@ Interface e distribuição facilitada via executável .exe
 🖥️ UI - Telas do Aplicativo
 Construída com o framework web Flask, HTML e Bootstrap, a Interface Gráfica de Usuário (GUI) permite ao usuário realizar as ações de emissão e consulta. Seus elementos de interface são otimizados para oferecer uma experiência fluida no acesso a essas duas funcionalidades principais.
 
+Estrutura da Planilha .xlsx
+
+![Planilha](estrutura.png)
+
+
 Tela de Emissão e Consulta
 
 ![Emissão](tela_emissao.png)
